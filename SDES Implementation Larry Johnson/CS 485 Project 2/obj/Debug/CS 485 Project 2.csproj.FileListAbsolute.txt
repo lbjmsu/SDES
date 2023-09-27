@@ -1,0 +1,11 @@
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\bin\Debug\CS 485 Project 2.exe.config
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\bin\Debug\CS 485 Project 2.exe
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\bin\Debug\CS 485 Project 2.pdb
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.csproj.AssemblyReference.cache
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS_485_Project_2.Properties.Resources.resources
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.csproj.GenerateResource.cache
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.csproj.CoreCompileInputs.cache
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.exe
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS 485 Project 2.pdb
+C:\Users\farti\Desktop\Program Source\CS 485 Project 2\CS 485 Project 2\obj\Debug\CS_485_Project_2.SDESForm.resources
